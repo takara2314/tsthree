@@ -1,0 +1,15 @@
+{
+  "name": "tsthree",
+  "version": "1.0.0",
+  "description": "This is the three.js written by TypeScript project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "takara2314",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.122.0",
+    "typescript": "^4.1.2"
+  }
+}
